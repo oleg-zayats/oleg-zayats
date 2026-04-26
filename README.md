@@ -9,6 +9,10 @@ Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js.
 
 Backend: Node.js.
 
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
 I am a proactive learner, detail-oriented, and focused on writing clean, maintainable code. I am actively seeking opportunities to contribute to innovative projects and grow within a professional development team.
 
 📩 Let's connect or reach out via Telegram:@alezha13
